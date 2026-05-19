@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of Alberta interested in softwa
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/pmdavidson/Social-Distribution">
+<a href="[https://github.com/pmdavidson/Social-Distribution](https://github.com/pmdavidson/Social-Distribution.git)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Social-Distribution&theme=dark" />
 </a>
 
