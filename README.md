@@ -15,11 +15,11 @@ I'm a Computer Science student at the University of Alberta interested in softwa
 
 ## 🚀 Featured Projects
 
-[![Social Distribution](https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Social-Distribution&theme=dark)](https://github.com/pmdavidson/Social-Distribution)
-
-[![Event Hub](https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Event-Hub&theme=dark)](https://github.com/pmdavidson/Event-Hub)
-
-[![Middle Meets A*](https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=middle-meets-astar&theme=dark)](https://github.com/pmdavidson/middle-meets-astar)
+| Project | Tech | Description |
+|---|---|---|
+| [Social Distribution](https://github.com/pmdavidson/Social-Distribution) | Django, Python, REST APIs, PostgreSQL, Heroku | Federated social networking platform with follow/friendship logic, inbox federation, node-to-node communication, and visibility-aware access control. |
+| [Event Hub](https://github.com/pmdavidson/Event-Hub) | Java, Android, Firebase, Firestore, GitHub Actions | Android event management app with organizer/admin workflows, QR joining, maps, Firebase-backed data, and analytics-ready event features. |
+| [middle-meets-astar](https://github.com/pmdavidson/middle-meets-astar) | Python, A*, Bidirectional Search, CSV, matplotlib | Search/pathfinding project comparing A*, bidirectional search, and meet-in-the-middle strategies through structured experiments. |
 
 ---
 [![](https://komarev.com/ghpvc/?username=pmdavidson&icon=0&color=0)](https://visitcount.itsvg.in)
