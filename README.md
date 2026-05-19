@@ -15,17 +15,11 @@ I'm a Computer Science student at the University of Alberta interested in softwa
 
 ## 🚀 Featured Projects
 
-<a href="[https://github.com/pmdavidson/Social-Distribution](https://github.com/pmdavidson/Social-Distribution.git)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Social-Distribution&theme=dark" />
-</a>
+[![Social Distribution](https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Social-Distribution&theme=dark)](https://github.com/pmdavidson/Social-Distribution)
 
-<a href="https://github.com/pmdavidson/Event-Hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Event-Hub&theme=dark" />
-</a>
+[![Event Hub](https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Event-Hub&theme=dark)](https://github.com/pmdavidson/Event-Hub)
 
-<a href="https://github.com/pmdavidson/Middle-Meets-AStar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=Middle-Meets-AStar&theme=dark" />
-</a>
+[![Middle Meets A*](https://github-readme-stats.vercel.app/api/pin/?username=pmdavidson&repo=middle-meets-astar&theme=dark)](https://github.com/pmdavidson/middle-meets-astar)
 
 ---
 [![](https://komarev.com/ghpvc/?username=pmdavidson&icon=0&color=0)](https://visitcount.itsvg.in)
