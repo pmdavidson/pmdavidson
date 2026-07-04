@@ -22,6 +22,3 @@ I'm a Computer Science student at the University of Alberta interested in softwa
 | [Edmonton 311 Service Request Analysis](https://github.com/pmdavidson/edmonton-permit-analysis) | Python, SQLite, statsmodels, Pandas, scikit-learn, Power BI | This project analyzes Edmonton's 311 service request data to identify which request types and neighbourhoods experience the longest resolution delays, quantify the factors driving those delays using regression analysis, and recommend where the city should focus service delivery improvements. |
 
 ---
-[![](https://komarev.com/ghpvc/?username=pmdavidson&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
