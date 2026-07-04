@@ -17,9 +17,9 @@ I'm a Computer Science student at the University of Alberta interested in softwa
 
 | Project | Tech | Description |
 |---|---|---|
-| [Social Distribution](https://github.com/pmdavidson/Social-Distribution) | Django, Python, REST APIs, PostgreSQL, Heroku | Federated social networking platform with follow/friendship logic, inbox federation, node-to-node communication, and visibility-aware access control. |
-| [Event Hub](https://github.com/pmdavidson/Event-Hub) | Java, Android, Firebase, Firestore, GitHub Actions | Android event management app with organizer/admin workflows, QR joining, maps, Firebase-backed data, and analytics-ready event features. |
-| [middle-meets-astar](https://github.com/pmdavidson/middle-meets-astar) | Python, A*, Bidirectional Search, CSV, matplotlib | Search/pathfinding project comparing A*, bidirectional search, and meet-in-the-middle strategies through structured experiments. |
+| [Edmonton Construction & Housing Activity Intelligence](https://github.com/pmdavidson/edmonton-construction-analytics) | Python, SQL, SQLite, Pandas, Power BI | This project analyzes over 240,000 building permit records from the City of Edmonton Open Data Portal to identify long-term housing development trends, construction activity patterns, permit seasonality, and neighbourhood growth hotspots. |
+| [ShipGuard](https://github.com/pmdavidson/ShipGuard) | Python, XGBoost, scikit-learn, Power BI | An end-to-end ML pipeline for anomaly detection, fault classification, and remaining-useful-life (RUL) estimation over multi-sensor ship telemetry. |
+| [Edmonton 311 Service Request Analysis](https://github.com/pmdavidson/edmonton-permit-analysis) | Python, SQLite, statsmodels, Pandas, scikit-learn, Power BI | This project analyzes Edmonton's 311 service request data to identify which request types and neighbourhoods experience the longest resolution delays, quantify the factors driving those delays using regression analysis, and recommend where the city should focus service delivery improvements. |
 
 ---
 [![](https://komarev.com/ghpvc/?username=pmdavidson&icon=0&color=0)](https://visitcount.itsvg.in)
